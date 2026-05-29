@@ -1,11 +1,11 @@
 <template>
-  <div id="app">
-    <router-view />
+  <div>
+    <h1>Create</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: "App",
+  name: "CreateView",
 };
 </script>
